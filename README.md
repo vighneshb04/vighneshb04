@@ -1,6 +1,6 @@
 # 👋 Hello, there! I'm Vighnesh B
 
-[![GitHub followers](https://img.shields.io/github/followers/your_username.svg?style=social&label=Follow)](https://github.com/vighneshb04)
+[![GitHub followers](https://img.shields.io/github/followers/your_username.svg?style=social&label=Follow)](vighneshb04)
 [![Twitter Follow](https://img.shields.io/twitter/follow/your_twitter_handle.svg?style=social)](https://twitter.com/)
 
 Welcome to my GitHub! Hello there! I'm Vighnesh B, hailing from the serene town of Kollam, Kerala. I'm deeply passionate about UI/UX and front-end designing, constantly seeking to blend aesthetics with functionality. With a solid foundation in blockchain web development, I navigate the digital landscape with ease, bringing innovative solutions to life. As a seasoned team leader, I've spearheaded numerous projects, leveraging my skills to inspire and motivate my colleagues towards success. Beyond the realms of tech, I'm a dedicated football player and a javelin throw athlete, finding solace and inspiration in the thrill of sports. When I'm not immersed in code or training, you'll find me experimenting in the kitchen, exploring new destinations, or captivating audiences in a tailored suit and mic in hand. With confidence as my armor, I thrive in the spotlight, embracing every opportunity to connect, create, and inspire. Feel free to contact me for more.
