@@ -36,7 +36,7 @@ Welcome to my GitHub! Hello there! I'm Vighnesh B, hailing from the serene town 
 
 ## 📊 GitHub Stats
 
-[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=vighneshb04&theme=radical)](https://github.com/vighneshb04)
+[![Vighnesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=vighneshb04&theme=radical)](https://github.com/vighneshb04)
 
 Thanks for visiting ! 😊
 
