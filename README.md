@@ -22,7 +22,7 @@ Welcome to my GitHub! Hello there! I'm Vighnesh B, hailing from the serene town 
 
 ## 💬 Let's Connect
 
-- [Resume](https://tan-lesli-44.tiiny.site)
+- [Resume](https://emerald-miquela-43.tiiny.site)
 - [LinkedIn](https://www.linkedin.com/in/vighnesh-b-a96ab02ab/)
 - [Twitter](https://twitter.com/VinsmokeSa75007)
 - [Instagram](https://www.instagram.com/_vighneshh_b?igsh=MTZpbWl3YWh3bmNyZw==)
