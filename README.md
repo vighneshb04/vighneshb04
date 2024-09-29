@@ -4,8 +4,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/VinsmokeSa75007.svg?style=social)](@VinsmokeSa75007)
 
 
-Welcome to my GitHub! Hello there! I'm Vighnesh B, hailing from the serene town of Kollam, Kerala. I'm deeply passionate about UI/UX and front-end designing, constantly seeking to blend aesthetics with functionality. With a solid foundation in blockchain web development, I navigate the digital landscape with ease, bringing innovative solutions to life. As a seasoned team leader, I've spearheaded numerous projects, leveraging my skills to inspire and motivate my colleagues towards success. Beyond the realms of tech, I'm a dedicated football player and a javelin throw athlete, finding solace and inspiration in the thrill of sports. When I'm not immersed in code or training, you'll find me experimenting in the kitchen, exploring new destinations, or captivating audiences in a tailored suit and mic in hand. With confidence as my armor, I thrive in the spotlight, embracing every opportunity to connect, create, and inspire. Feel free to contact me for more.
-
+Welcome to my GitHub! Hello there! I'm Vighnesh B, hailing from the serene town of Kollam, Kerala. 
 ## 🔧 Technologies & Tools
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
@@ -17,8 +16,7 @@ Welcome to my GitHub! Hello there! I'm Vighnesh B, hailing from the serene town 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=ffffff)
 ![UI/UX](https://img.shields.io/badge/-UI/UX-FF4088?style=flat-square&logo=adobe-xd&logoColor=ffffff)
-![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=ffffff)
-![Unity](https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=ffffff)
+
 
 
 ## 💬 Let's Connect
