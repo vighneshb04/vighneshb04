@@ -32,10 +32,11 @@ Welcome to my GitHub! Hello there! I'm Vighnesh B, hailing from the serene town 
 - [Dev.to](your_devto_link)
 --->
 
-
 ## 📊 GitHub Stats
 
 [![Vighnesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=vighneshb04&theme=radical)](https://github.com/vighneshb04)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vighneshb04&layout=compact&theme=radical)](https://github.com/vighneshb04)
+
 
 Thanks for visiting ! 😊
 
