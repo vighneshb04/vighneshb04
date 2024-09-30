@@ -21,7 +21,7 @@ Welcome to my GitHub! Hello there! I'm Vighnesh B, hailing from the serene town 
 
 ## 💬 Let's Connect
 
-- [Resume](https://drive.google.com/file/d/1cOFdRIqsGYyQVldfN3D9aHZRhQBdJrGG/view?usp=drive_link)
+- [Resume](https://drive.google.com/file/d/1fAxZ4ygfGAYcP0zE6a6tyEl28LVO087m/view?usp=sharing)
 - [LinkedIn](https://www.linkedin.com/in/vighnesh-b-a96ab02ab/)
 - [Twitter](https://twitter.com/VinsmokeSa75007)
 - [Instagram](https://www.instagram.com/vighneshhb?igsh=MTZpbWl3YWh3bmNyZw==)
