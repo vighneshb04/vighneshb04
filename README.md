@@ -1,101 +1,111 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:00F5FF,50:8A2BE2,100:FF00FF&text=Vighnesh%20B&fontSize=55&fontColor=ffffff&animation=twinkling"/>
+<!-- HERO HEADER -->
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=26&duration=2600&pause=700&color=00F5FF&width=900&lines=Web3+Developer+%7C+AI%2FML+Researcher+%7C+Startup+Founder;AWS+Certified+%7C+IEEE+Published+%7C+Hacktoberfest+Contributor;Building+Real+World+Tech"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:00F5FF,50:8A2BE2,100:FF00FF&text=Vighnesh%20B&fontSize=60&fontColor=ffffff&animation=twinkling"/>
 
----
-
-### 💫 About
-
-B.Tech CSE @ Amrita Vishwa Vidyapeetham  
-Startup Founder • IEEE Published  
-Focused on Web3, AI/ML, Cloud & Data  
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=2500&pause=800&color=00E6FF&width=900&lines=Web3+Developer;AI+%2F+ML+Engineer;Startup+Founder;AWS+Certified;IEEE+Published+Researcher;Hacktoberfest+Contributor"/>
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+# 👋 About Me
 
-### 🏆 Certifications
-
-![AWS](https://img.shields.io/badge/AWS%20Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-
-![Oracle](https://img.shields.io/badge/Oracle%20Java%20Certified-red?style=for-the-badge&logo=oracle&logoColor=white)
-
-Credly Badge:  
-https://www.credly.com/badges/c2b04326-78b8-46e5-b8cd-ace7a0502533/public_url
+🎓 B.Tech CSE @ Amrita Vishwa Vidyapeetham  
+🚀 Startup Founder  
+📄 IEEE Published  
+🌍 Building in Web3, AI/ML & Cloud  
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+# 🏆 Certifications
 
-### ⚡ Skills
+<a href="https://www.credly.com/badges/c2b04326-78b8-46e5-b8cd-ace7a0502533/public_url">
+<img src="https://img.shields.io/badge/AWS%20Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+</a>
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql)
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity)
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum)
-![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3dotjs)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex)
-
-AI/ML • Deep Learning • Data Analysis • QuickSight • Tableau • VPC
+<img src="https://img.shields.io/badge/Oracle%20Java%20Certified-red?style=for-the-badge&logo=oracle&logoColor=white"/>
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+# ⚡ Tech Stack
 
-### 🚀 Projects
+<p align="center">
 
-NFT Marketplace  
-https://github.com/vighneshb04
+<a href="https://github.com/vighneshb04">
+<img src="https://skillicons.dev/icons?i=aws,solidity,react,nextjs,nodejs,python,java,c,mysql,git,latex&perline=11"/>
+</a>
 
-Proof of Justice  
-https://github.com/vighneshb04
+</p>
 
-Facial Expression Recognition (IEEE)  
-https://github.com/vighneshb04
-
-School ERP System  
-https://github.com/vighneshb04
+AI/ML • Deep Learning • Ethereum • Web3.js  
+SQL • Data Analysis • QuickSight • Tableau • VPC
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+# 🚀 Featured Projects
 
-### 📊 GitHub
+### NFT Marketplace
+<a href="https://github.com/vighneshb04">
+<img src="https://img.shields.io/badge/View%20Project-00F5FF?style=for-the-badge"/>
+</a>
 
-![Stats](https://github-readme-stats.vercel.app/api?username=vighneshb04&show_icons=true&theme=radical)
+### Proof of Justice
+<a href="https://github.com/vighneshb04">
+<img src="https://img.shields.io/badge/View%20Project-FF00FF?style=for-the-badge"/>
+</a>
 
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vighneshb04&layout=compact&theme=radical)
+### Facial Expression Recognition (IEEE)
+<a href="https://github.com/vighneshb04">
+<img src="https://img.shields.io/badge/View%20Project-8A2BE2?style=for-the-badge"/>
+</a>
+
+### School ERP System
+<a href="https://github.com/vighneshb04">
+<img src="https://img.shields.io/badge/View%20Project-00E6FF?style=for-the-badge"/>
+</a>
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=vighneshb04&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vighneshb04&layout=compact&theme=radical&hide_border=true&cache_seconds=86400"/>
+
+</p>
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+# 🏅 Achievements
 
-### 🏅 Achievements
-
-MeitY Startup Pitch Winner  
-IEEE Conference Publication  
-ACM Mentor  
-Hacktoberfest Contributor  
-Spirit of Innovation Award
+🏆 MeitY Startup Pitch Winner  
+📄 IEEE Conference Publication  
+👨‍🏫 ACM Mentor  
+💻 Hacktoberfest Contributor  
+💡 Spirit of Innovation Award  
 
 ---
 
-### 🌐 Connect
+# 🌐 Connect
 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin)
-![Email](https://img.shields.io/badge/Email-FF00FF?style=for-the-badge&logo=gmail)
+<a href="https://linkedin.com/in/vighneshb04">
+<img src="https://img.shields.io/badge/LinkedIn-00F5FF?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:vighnesh.b@hotmail.com">
+<img src="https://img.shields.io/badge/Email-FF00FF?style=for-the-badge&logo=gmail"/>
+</a>
 
 ---
+
+<p align="center">
 
 <img src="https://profile-counter.glitch.me/vighneshb04/count.svg"/>
 
+</p>
+
 ---
 
-### ⚡ Code • Build • Learn • Repeat ⚡
+# ⚡ Code • Build • Learn • Repeat ⚡
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:00F5FF,50:8A2BE2,100:FF00FF&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:FF00FF,50:8A2BE2,100:00F5FF&section=footer"/>
