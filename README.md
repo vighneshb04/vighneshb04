@@ -1,10 +1,14 @@
+<!-- ================= HEADER ================= -->
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:FFFFFF,50:FFF4E6,100:FFFFFF&text=Vighnesh%20B&fontSize=60&fontColor=3E2723&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=240&color=FFFFFF&text=Vighnesh%20B&fontSize=60&fontColor=5C4033"/>
 </p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=2400&pause=700&color=8B5E3C&center=true&vCenter=true&width=900&lines=Web3+Developer;AI%2FML+Researcher;Startup+Founder;UI%2FUX+Designer;AWS+Certified"/>
 </p>
+
+<!-- ================= IMAGE ================= -->
 
 <p align="center">
   <img src="https://i.pinimg.com/736x/7c/f4/88/7cf488728d9ae002a1928b7bd2b5b997.jpg" width="420"/>
@@ -14,12 +18,12 @@
 
 # 🏆 Certifications
 
-![AWS](https://img.shields.io/badge/AWS%20Cloud%20Practitioner-FFF4E6?style=for-the-badge&logo=amazonaws&logoColor=3E2723)  
+![AWS](https://img.shields.io/badge/AWS%20Cloud%20Practitioner-FFF6E9?style=for-the-badge&logo=amazonaws&logoColor=5C4033)  
 ![Oracle](https://img.shields.io/badge/Oracle%20Java-FFFFFF?style=for-the-badge&logo=oracle&logoColor=8B5E3C)
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=FFF4E6&height=3"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FFF6E9&height=3"/>
 
 ---
 
@@ -66,7 +70,7 @@ UI/UX • Figma
 </a>
 
 <a href="https://instagram.com/vighneshhb">
-<img src="https://img.shields.io/badge/Instagram-FFF4E6?style=for-the-badge&logo=instagram&logoColor=3E2723"/>
+<img src="https://img.shields.io/badge/Instagram-FFF6E9?style=for-the-badge&logo=instagram&logoColor=5C4033"/>
 </a>
 
 <a href="mailto:vighnesh.b@hotmail.com">
@@ -74,7 +78,7 @@ UI/UX • Figma
 </a>
 
 <a href="https://www.figma.com/@vighneshofficia">
-<img src="https://img.shields.io/badge/Figma-FFF4E6?style=for-the-badge&logo=figma&logoColor=3E2723"/>
+<img src="https://img.shields.io/badge/Figma-FFF6E9?style=for-the-badge&logo=figma&logoColor=5C4033"/>
 </a>
 
 </p>
@@ -86,5 +90,5 @@ UI/UX • Figma
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:FFFFFF,50:FFF4E6,100:FFFFFF&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=120&color=FFF6E9"/>
 </p>
