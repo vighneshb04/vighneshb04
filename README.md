@@ -8,6 +8,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=2400&pause=700&color=00E6FF&width=900&lines=Web3+Developer;AI%2FML+Researcher;Startup+Founder;UI%2FUX+Designer;AWS+Certified"/>
 </p>
 
+<p align="center">
+  <img src="https://i.pinimg.com/736x/7c/f4/88/7cf488728d9ae002a1928b7bd2b5b997.jpg" width="500"/>
+</p>
 ---
 
 # 🏆 Certifications
