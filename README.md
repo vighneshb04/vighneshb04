@@ -1,10 +1,16 @@
+<!-- ================= TOP WAVE ================= -->
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:FFFDF9,50:FFFDF9,100:8B5E3C&text=Vighnesh%20B&fontSize=60&fontColor=5C4033&animation=fadeIn"/>
 </p>
 
+<!-- ================= TYPING ================= -->
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=2400&pause=700&color=8B5E3C&center=true&vCenter=true&width=900&lines=Web3+Developer;AI%2FML+Researcher;Startup+Founder;UI%2FUX+Designer;AWS+Certified"/>
 </p>
+
+<!-- ================= IMAGE ================= -->
 
 <p align="center">
   <img src="https://i.pinimg.com/736x/7c/f4/88/7cf488728d9ae002a1928b7bd2b5b997.jpg" width="420"/>
@@ -19,22 +25,16 @@
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=FFF6E9&height=3"/>
-
----
-
 # ⚡ Skills
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=aws,solidity,react,nextjs,nodejs,python,java,c,mysql,git,latex,figma"/>
 </p>
 
-<p align="center">
 Ethereum • Web3.js  
 AI/ML • Deep Learning  
 SQL • Tableau • QuickSight • VPC  
 UI/UX • Figma
-</p>
 
 ---
 
@@ -74,4 +74,10 @@ UI/UX • Figma
 
 <p align="center">
 ☕ Code • Design • Build • Repeat
+</p>
+
+<!-- ================= BIG BOTTOM WAVE ================= -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:8B5E3C,50:FFFDF9,100:FFFDF9&section=footer"/>
 </p>
