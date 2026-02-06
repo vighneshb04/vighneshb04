@@ -1,10 +1,15 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:FFFFFF,100:EADBC8&text=Vighnesh%20B&fontSize=60&fontColor=5C4033&animation=fadeIn"/>
-</p>
+<!-- PURE WHITE HEADER -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=2400&pause=700&color=8B5E3C&center=true&vCenter=true&width=900&lines=Web3+Developer;AI%2FML+Researcher;Startup+Founder;UI%2FUX+Designer;AWS+Certified"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=220&color=FFFFFF&text=Vighnesh%20B&fontSize=60&fontColor=5C4033"/>
 </p>
+
+<!-- BROWN WAVE STRIP -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=60&color=5C4033&section=header"/>
+</p>
+
 
 <p align="center">
   <img src="https://i.pinimg.com/736x/7c/f4/88/7cf488728d9ae002a1928b7bd2b5b997.jpg" width="420"/>
