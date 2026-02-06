@@ -7,8 +7,9 @@
 <!-- ================= TYPING ================= -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=2400&pause=700&color=8B5E3C&center=true&vCenter=true&width=900&lines=Web3+Developer;AI%2FML+Researcher;Startup+Founder;UI%2FUX+Designer;AWS+Certified"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=42&duration=2400&pause=700&color=C68642&center=true&vCenter=true&width=1100&lines=Web3+Developer;AI%2FML+Researcher;Startup+Founder;UI%2FUX+Designer;AWS+Certified"/>
 </p>
+
 
 <!-- ================= IMAGE ================= -->
 
