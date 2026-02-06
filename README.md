@@ -12,17 +12,15 @@
 
 # 🏆 Certifications
 
-<p align="center">
 
-<a href="https://www.credly.com/badges/c2b04326-78b8-46e5-b8cd-ace7a0502533/public_url">
-<img src="https://images.credly.com/size/220x220/images/6847e8e3-8b04-4f3d-b3b7-6fbc4b19e32c/image.png"/>
-</a>
 
-<br>
+![AWS](https://img.shields.io/badge/AWS%20Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws)
 
-<img src="https://img.shields.io/badge/Oracle%20Java%20Certified-red?style=for-the-badge&logo=oracle"/>
+![Oracle](https://img.shields.io/badge/Oracle%20Java-Certified-red?style=for-the-badge&logo=oracle)
 
-</p>
+---
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
 
 ---
 
@@ -81,7 +79,7 @@ UI/UX • Figma
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
 </a>
 
-<a href="https://www.figma.com">
+<a href="https://www.figma.com](https://www.figma.com/@vighneshofficia">
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma"/>
 </a>
 
