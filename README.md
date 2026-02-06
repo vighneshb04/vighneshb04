@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=2600&pause=700&color=00F5FF&width=900&lines=Web3+Developer;AI%2FML+Engineer;Startup+Founder;AWS+Certified;IEEE+Published+Researcher"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=2500&pause=700&color=00E6FF&width=900&lines=Web3+Developer;AI%2FML+Researcher;Startup+Founder;UI%2FUX+Designer;AWS+Certified"/>
 </p>
 
 ---
@@ -13,8 +13,9 @@
 # 👋 About Me
 
 B.Tech CSE @ Amrita  
-Startup Founder • IEEE Published  
-Web3 • AI/ML • Cloud Builder  
+Startup Founder  
+IEEE Published  
+Web3 • AI/ML Research • UI/UX Design  
 
 ---
 
@@ -31,45 +32,38 @@ Web3 • AI/ML • Cloud Builder
 # ⚡ Skills
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=aws,solidity,react,nextjs,nodejs,python,java,c,mysql,git,latex"/>
+<img src="https://skillicons.dev/icons?i=aws,solidity,react,nextjs,nodejs,python,java,c,mysql,git,latex,figma"/>
 </p>
 
-Ethereum • Web3.js • AI/ML • Deep Learning  
-SQL • Data Analysis • Tableau • QuickSight • VPC
+Ethereum • Web3.js  
+AI/ML • Deep Learning  
+SQL • Data Analysis • Tableau • QuickSight • VPC  
+UI/UX • Figma
 
 ---
 
 # 🚀 Projects
 
-### NFT Marketplace  
-<a href="https://github.com/vighneshb04">
-<img src="https://img.shields.io/badge/View-00F5FF?style=for-the-badge"/>
-</a>
+NFT Marketplace  
+Proof of Justice  
+Facial Expression Recognition (IEEE)  
+School ERP
 
-### Proof of Justice  
-<a href="https://github.com/vighneshb04">
-<img src="https://img.shields.io/badge/View-FF00FF?style=for-the-badge"/>
-</a>
-
-### Facial Expression Recognition  
-<a href="https://github.com/vighneshb04">
-<img src="https://img.shields.io/badge/View-8A2BE2?style=for-the-badge"/>
-</a>
-
-### School ERP  
-<a href="https://github.com/vighneshb04">
-<img src="https://img.shields.io/badge/View-00E6FF?style=for-the-badge"/>
-</a>
+(All available in pinned repos)
 
 ---
 
-# 📊 GitHub Analytics
+# 📊 GitHub Analytics (STABLE)
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vighneshb04&theme=radical"/>
+<img src="https://github-readme-stats.vercel.app/api?username=vighneshb04&show_icons=true&theme=tokyonight&cache_seconds=86400"/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=vighneshb04&show_icons=true&theme=radical"/>
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vighneshb04&theme=tokyonight"/>
 
 </p>
 
@@ -81,16 +75,16 @@ SQL • Data Analysis • Tableau • QuickSight • VPC
 📄 IEEE Publication  
 👨‍🏫 ACM Mentor  
 💻 Hacktoberfest Contributor  
-💡 Innovation Award  
+💡 Innovation Award
 
 ---
 
-# 🌐 Connect With Me
+# 🌐 Connect
 
 <p align="center">
 
 <a href="https://linkedin.com/in/vighneshb04">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="https://instagram.com/vighneshhb">
@@ -102,7 +96,7 @@ SQL • Data Analysis • Tableau • QuickSight • VPC
 </a>
 
 <a href="https://github.com/vighneshb04">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
 </a>
 
 </p>
@@ -110,7 +104,7 @@ SQL • Data Analysis • Tableau • QuickSight • VPC
 ---
 
 <p align="center">
-<img src="https://profile-counter.glitch.me/vighneshb04/count.svg"/>
+<img src="https://komarev.com/ghpvc/?username=vighneshb04&color=blueviolet&style=for-the-badge"/>
 </p>
 
 ---
