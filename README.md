@@ -1,50 +1,152 @@
----
+<div align="center">
 
-## 👋 Greetings, I'm Vighnesh B
+# ⚡ Vighnesh B ⚡
 
-From the serene shores of Kollam, Kerala, I'm diving headfirst into the decentralized future!
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Web3+Developer;AI+Researcher;AWS+Certified+Cloud+Practitioner;IEEE+Published+Author;Startup+Pitch+Winner;Building+Tech+That+Matters" />
 
-[![GitHub followers](https://img.shields.io/github/followers/vighneshb04.svg?style=social&label=Follow)](https://github.com/vighneshb04)
-[![Twitter Follow](https://img.shields.io/twitter/follow/VinsmokeSa75007.svg?style=social)](https://twitter.com/VinsmokeSa75007)
-
----
-
-## ⛓️ Blockchain & Web3 Arsenal
-
-My journey into the metaverse is powered by a robust stack. I'm building the next-gen decentralized experiences:
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=ffffff)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=ffffff)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=ffffff)
-![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=solidity&logoColor=ffffff)
-![Ethereum](https://img.shields.io/badge/-Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=ffffff)
-![IPFS](https://img.shields.io/badge/-IPFS-65C1AE?style=flat-square&logo=ipfs&logoColor=ffffff)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=ffffff)
-![MetaMask](https://img.shields.io/badge/-MetaMask-E54500?style=flat-square&logo=metamask&logoColor=ffffff)
+</div>
 
 ---
 
-## 🌐 Plug into the Network
+<div align="center">
 
-Let's connect and build the decentralized future, byte by byte!
+<img src="https://svg-banners.vercel.app/api?type=glitch&text1=Vighnesh%20B&width=900&height=120"/>
 
-- 📄 **[My Digital Blueprint (Resume)](https://drive.google.com/file/d/18VE8P_3T7zhcV8WvUq6I71SEelqzxDuR/view?usp=sharing)**
-- 🔗 **[LinkedIn Nexus](https://www.linkedin.com/in/vighnesh-b-a96ab02ab/)**
-- 🐦 **[Cyber-Chirp Channel](https://twitter.com/VinsmokeSa75007)**
-- 📸 **[Meta-Moments Gallery (Instagram)](https://www.instagram.com/vighneshhb?igsh=MTZpbWl3YWh3bmNyZw==)**
+</div>
 
 ---
 
-## 📈 On-Chain Activity & Metrics
+# 👋 Hello World
 
-Witness my contributions to the decentralized ledger!
+🎓 CSE @ Amrita Vishwa Vidyapeetham  
+🌴 Kollam, Kerala  
+🚀 Web3 • AI • Cloud
 
-[![Vighnesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=vighneshb04&theme=dark&hide_border=true&show_icons=true&include_all_commits=true)](https://github.com/vighneshb04)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vighneshb04&layout=compact&theme=dark&hide_border=true)](https://github.com/vighneshb04)
+I build **real-world systems** combining:
+
+> Blockchain + AI + Cloud Infrastructure
 
 ---
 
-### Thanks for dropping by my cyber-sanctuary! Let's build something epic! 🚀
+# 🏆 Achievements (Highlighted)
+
+🔥 **Winner — MeitY National Startup Pitch**  
+🔥 **IEEE Conference Published Researcher**  
+🔥 **AWS Certified Cloud Practitioner**  
+🔥 **ACM Mentor (100+ students guided)**  
+🔥 **Hacktoberfest Contributor**  
+🔥 **Spirit of Innovation Award — CAUSE 2025**
 
 ---
+
+# ☁️ AWS Certification Highlight
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/AWS-Certified%20Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+
+</div>
+
+✔ Cloud Architecture  
+✔ VPC & Infrastructure Basics  
+✔ Scalable Solutions  
+✔ Deployment Knowledge
+
+---
+
+# 🧠 About Me
+
+- Full-Stack + Blockchain Developer  
+- AI/ML & Deep Learning Researcher  
+- Published in ICCCNT (IIT Indore)  
+- Love building scalable & decentralized systems  
+- Mentor in Web, Cloud & Blockchain
+
+---
+
+# ⚒️ Tech Arsenal
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=solidity,ethereum,react,nextjs,nodejs,python,java,c,aws,mysql,git,figma&perline=6" />
+
+</div>
+
+---
+
+# 🚀 Major Projects
+
+### ⛓️ NFT Marketplace
+ERC-721 marketplace with wallet auth & trustless trading.
+
+### ⚖️ Proof of Justice Blockchain
+Judicial records → Immutable NFTs via IPFS + Ethereum.
+
+### 🧠 Facial Expression Recognition
+CNN + Graph Attention Network (Published).
+
+### 🏫 School ERP System
+Full-stack ERP for academic workflows.
+
+---
+
+# 📊 GitHub Power Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=vighneshb04&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vighneshb04&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏅 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=vighneshb04&theme=radical&no-frame=true&no-bg=true&row=1&column=7"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vighneshb04&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/vighneshb04)
+[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/vighneshb04)
+
+📧 vighnesh.b@hotmail.com
+
+</div>
+
+---
+
+# 👀 Profile Visitors
+
+<div align="center">
+
+<img src="https://profile-counter.glitch.me/vighneshb04/count.svg"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚡ "Code. Deploy. Decentralize. Repeat."
+
+</div>
