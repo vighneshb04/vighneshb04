@@ -1,8 +1,6 @@
 <div align="center">
 
-# ⚡ Vighnesh B ⚡
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Web3+Developer;AI+Researcher;AWS+Certified+Cloud+Practitioner;IEEE+Published+Author;Startup+Pitch+Winner;Building+Tech+That+Matters" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,50:8A2BE2,100:FF00FF&height=200&section=header&text=Vighnesh%20B&fontSize=60&fontColor=ffffff&animation=fadeIn"/>
 
 </div>
 
@@ -10,7 +8,7 @@
 
 <div align="center">
 
-<img src="https://svg-banners.vercel.app/api?type=glitch&text1=Vighnesh%20B&width=900&height=120"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&pause=700&color=00F5FF&center=true&vCenter=true&width=900&lines=Web3+Developer;AI+%2F+ML+Engineer;Cloud+%26+Data+Enthusiast;Full+Stack+Builder;Always+Learning+New+Tech"/>
 
 </div>
 
@@ -20,114 +18,140 @@
 
 🎓 CSE @ Amrita Vishwa Vidyapeetham  
 🌴 Kollam, Kerala  
-🚀 Web3 • AI • Cloud
+🚀 Interested in Web3, AI, Cloud & Data
 
-I build **real-world systems** combining:
+I build real-world tech combining:
 
-> Blockchain + AI + Cloud Infrastructure
-
----
-
-# 🏆 Achievements (Highlighted)
-
-🔥 **Winner — MeitY National Startup Pitch**  
-🔥 **IEEE Conference Published Researcher**  
-🔥 **AWS Certified Cloud Practitioner**  
-🔥 **ACM Mentor (100+ students guided)**  
-🔥 **Hacktoberfest Contributor**  
-🔥 **Spirit of Innovation Award — CAUSE 2025**
+> **Blockchain + AI + Cloud + Data**
 
 ---
 
-# ☁️ AWS Certification Highlight
+# 🏆 Certification
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/AWS-Certified%20Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-
-</div>
-
-✔ Cloud Architecture  
-✔ VPC & Infrastructure Basics  
-✔ Scalable Solutions  
-✔ Deployment Knowledge
-
----
-
-# 🧠 About Me
-
-- Full-Stack + Blockchain Developer  
-- AI/ML & Deep Learning Researcher  
-- Published in ICCCNT (IIT Indore)  
-- Love building scalable & decentralized systems  
-- Mentor in Web, Cloud & Blockchain
-
----
-
-# ⚒️ Tech Arsenal
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=solidity,ethereum,react,nextjs,nodejs,python,java,c,aws,mysql,git,figma&perline=6" />
+<a href="https://www.credly.com/badges/c2b04326-78b8-46e5-b8cd-ace7a0502533/public_url">
+<img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+</a>
 
 </div>
 
 ---
 
-# 🚀 Major Projects
-
-### ⛓️ NFT Marketplace
-ERC-721 marketplace with wallet auth & trustless trading.
-
-### ⚖️ Proof of Justice Blockchain
-Judicial records → Immutable NFTs via IPFS + Ethereum.
-
-### 🧠 Facial Expression Recognition
-CNN + Graph Attention Network (Published).
-
-### 🏫 School ERP System
-Full-stack ERP for academic workflows.
-
----
-
-# 📊 GitHub Power Stats
+# ⚡ Tech Stack (Clickable)
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=vighneshb04&show_icons=true&theme=tokyonight&hide_border=true"/>
+### ☁️ Cloud & Data
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vighneshb04&layout=compact&theme=tokyonight&hide_border=true"/>
+<a href="https://aws.amazon.com"><img src="https://skillicons.dev/icons?i=aws"/></a>
+<a href="https://www.mysql.com"><img src="https://skillicons.dev/icons?i=mysql"/></a>
+
+📊 Data Analysis • Amazon QuickSight • Tableau • VPC
+
+---
+
+### ⛓️ Blockchain & Web3
+
+<a href="https://soliditylang.org"><img src="https://skillicons.dev/icons?i=solidity"/></a>
+<a href="https://ethereum.org"><img src="https://skillicons.dev/icons?i=ethereum"/></a>
+<a href="https://web3js.readthedocs.io"><img src="https://skillicons.dev/icons?i=javascript"/></a>
+
+Solidity • Ethereum • Web3.js
+
+---
+
+### 🤖 AI / ML
+
+<a href="https://www.python.org"><img src="https://skillicons.dev/icons?i=python"/></a>
+
+AI/ML • Deep Learning
+
+---
+
+### 💻 Development
+
+<a href="https://nextjs.org"><img src="https://skillicons.dev/icons?i=nextjs"/></a>
+<a href="https://react.dev"><img src="https://skillicons.dev/icons?i=react"/></a>
+<a href="https://www.java.com"><img src="https://skillicons.dev/icons?i=java"/></a>
+<a href="https://en.cppreference.com/w/c"><img src="https://skillicons.dev/icons?i=c"/></a>
+<a href="https://www.latex-project.org"><img src="https://skillicons.dev/icons?i=latex"/></a>
+
+Next.js • React.js • Java • C • LaTeX
 
 </div>
 
 ---
 
-# 🏅 GitHub Trophies
+# 🚀 Projects
+
+### ⛓️ NFT Marketplace  
+Decentralized minting and trading platform.
+
+### ⚖️ Proof of Justice  
+Judicial records secured as NFTs using IPFS.
+
+### 🧠 Facial Expression Recognition  
+CNN + GAT model (IEEE Published).
+
+### 🏫 School ERP  
+Full-stack Next.js ERP system.
+
+---
+
+# 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=vighneshb04&theme=radical&no-frame=true&no-bg=true&row=1&column=7"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=vighneshb04&show_icons=true&theme=radical&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vighneshb04&layout=compact&theme=radical&hide_border=true"/>
 
 </div>
 
 ---
 
-# 📈 Contribution Graph
+# 🐍 Contribution Snake
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vighneshb04&theme=tokyo-night&hide_border=true"/>
+![snake gif](https://github.com/platane/snk/raw/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
 ---
 
-# 🌐 Connect With Me
+# 🏆 Trophy Wall
 
 <div align="center">
 
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/vighneshb04)
-[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/vighneshb04)
+<img src="https://github-profile-trophy.vercel.app/?username=vighneshb04&theme=matrix&no-frame=true&no-bg=true"/>
+
+</div>
+
+---
+
+# 📈 Activity Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vighneshb04&bg_color=000000&color=00F5FF&line=FF00FF&point=FFFFFF&hide_border=true"/>
+
+</div>
+
+---
+
+# 🌐 Connect
+
+<div align="center">
+
+<a href="https://linkedin.com/in/vighneshb04">
+<img src="https://img.shields.io/badge/LinkedIn-00F5FF?style=for-the-badge&logo=linkedin&logoColor=black"/>
+</a>
+
+<a href="https://github.com/vighneshb04">
+<img src="https://img.shields.io/badge/GitHub-FF00FF?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 📧 vighnesh.b@hotmail.com
 
@@ -135,7 +159,7 @@ Full-stack ERP for academic workflows.
 
 ---
 
-# 👀 Profile Visitors
+# 👁️ Visitors
 
 <div align="center">
 
@@ -147,6 +171,9 @@ Full-stack ERP for academic workflows.
 
 <div align="center">
 
-### ⚡ "Code. Deploy. Decentralize. Repeat."
+## ⚡ CODE • BUILD • LEARN • REPEAT ⚡
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00FF,50:8A2BE2,100:00F5FF&height=120&section=footer"/>
+
