@@ -19,10 +19,14 @@
 
 ---
 
-# 🏆 Certifications
+## 🏆 Certifications
 
-![AWS](https://img.shields.io/badge/AWS%20Cloud%20Practitioner-FFFDF9?style=for-the-badge&logo=amazonaws&logoColor=5C4033)  
-![Oracle](https://img.shields.io/badge/Oracle%20Java-FFFDF9?style=for-the-badge&logo=oracle&logoColor=8B5E3C)
+<a href="https://www.credly.com/badges/c2b04326-78b8-46e5-b8cd-ace7a0502533/public_url">
+  <img src="https://img.shields.io/badge/AWS%20Cloud%20Practitioner-FFFDF9?style=for-the-badge&logo=amazonaws&logoColor=5C4033" alt="AWS Cloud Practitioner">
+</a>
+<a href="https://drive.google.com/file/d/192rHt83cNyYXZqaUFck_f5wLxUvJZIac/view?usp=sharing">
+  <img src="https://img.shields.io/badge/Oracle%20Java-FFFDF9?style=for-the-badge&logo=oracle&logoColor=8B5E3C" alt="Oracle Java Certification">
+</a>
 
 ---
 
