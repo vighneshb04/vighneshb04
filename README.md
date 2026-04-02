@@ -39,7 +39,7 @@
 
 </p>
 ---
-## 🎃 Hacktoberfest
+# 🎃 Hacktoberfest
 
 <p align="center">
   <a href="https://drive.google.com/file/d/1zK1omY4RjUhTmNS1gbtbd6DV5AIqcWS3/view?usp=sharing">
