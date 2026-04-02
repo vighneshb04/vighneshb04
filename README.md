@@ -24,39 +24,27 @@
 <p align="center">
 
 <a href="https://www.credly.com/badges/a8ec4e47-2885-45a1-8d42-325b1cbfce38/public_url">
-  <img src="https://images.credly.com/size/340x340/images/aws-certified-solutions-architect-associate.png" width="120"/><br>
   AWS Solutions Architect – Associate
-</a>
+</a> &nbsp;&nbsp;&nbsp;
 
 <a href="https://www.credly.com/badges/c2b04326-78b8-46e5-b8cd-ace7a0502533/public_url">
-  <img src="https://images.credly.com/size/340x340/images/aws-certified-cloud-practitioner.png" width="120"/><br>
   AWS Cloud Practitioner
-</a>
+</a> &nbsp;&nbsp;&nbsp;
 
 <a href="https://drive.google.com/file/d/192rHt83cNyYXZqaUFck_f5wLxUvJZIac/view?usp=sharing">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/50/Oracle_logo.svg" width="120"/><br>
   Oracle Java Certification
 </a>
 
 </p>
+
+</p>
 ---
-# Hacktober Fest
+## 🎃 Hacktoberfest
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Hacktoberfest%202024-Registered-000000?style=for-the-badge&logo=hacktoberfest&logoColor=green"/>
-
-  <img src="https://img.shields.io/badge/Hacktoberfest%202025-Level%200-1f2937?style=for-the-badge&logo=hacktoberfest&logoColor=blue"/>
-
-  <img src="https://img.shields.io/badge/Hacktoberfest%202025-Level%201-1f2937?style=for-the-badge&logo=hacktoberfest&logoColor=blue"/>
-
-  <img src="https://img.shields.io/badge/Hacktoberfest%202025-Level%202-1f2937?style=for-the-badge&logo=hacktoberfest&logoColor=blue"/>
-
-  <img src="https://img.shields.io/badge/Hacktoberfest%202025-Level%203-1f2937?style=for-the-badge&logo=hacktoberfest&logoColor=blue"/>
-
-  <img src="https://img.shields.io/badge/Hacktoberfest%202025-Level%204-1f2937?style=for-the-badge&logo=hacktoberfest&logoColor=blue"/>
-
-  <img src="https://img.shields.io/badge/Hacktoberfest%202025-Tree%20Planted-065f46?style=for-the-badge&logo=hacktoberfest&logoColor=green"/>
-
-  <img src="https://img.shields.io/badge/Hacktoberfest%202025-Supercontributor-gold?style=for-the-badge&logo=hacktoberfest&logoColor=black"/>
+  <a href="https://drive.google.com/file/d/1zK1omY4RjUhTmNS1gbtbd6DV5AIqcWS3/view?usp=sharing">
+    <img src="https://img.shields.io/badge/View%20Hacktoberfest%20Badges-FFFDF9?style=for-the-badge&logo=hacktoberfest&logoColor=5C4033"/>
+  </a>
 </p>
 
 # ⚡ Skills
