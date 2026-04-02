@@ -42,9 +42,7 @@
 ## 🎃 Hacktoberfest
 
 <p align="center">
-  <a href="https://drive.google.com/file/d/1zK1omY4RjUhTmNS1gbtbd6DV5AIqcWS3/view?usp=sharing">
-    <img src="https://img.shields.io/badge/View%20Hacktoberfest%20Badges-065f46?style=for-the-badge&logo=hacktoberfest&logoColor=white"/>
-  </a>
+  <img src="https://drive.google.com/uc?export=view&id=1zK1omY4RjUhTmNS1gbtbd6DV5AIqcWS3" width="700"/>
 </p>
 
 ---
