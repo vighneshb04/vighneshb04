@@ -19,34 +19,33 @@
 
 ---
 
+---
+
 ## 🏆 Certifications
 
 <p align="center">
+  <a href="https://www.credly.com/badges/a8ec4e47-2885-45a1-8d42-325b1cbfce38/public_url">
+    <img src="https://img.shields.io/badge/AWS%20Solutions%20Architect–Associate-FFFDF9?style=for-the-badge&logo=amazonaws&logoColor=5C4033"/>
+  </a>
 
-<a href="https://www.credly.com/badges/a8ec4e47-2885-45a1-8d42-325b1cbfce38/public_url">
-  AWS Solutions Architect – Associate
-</a> &nbsp;&nbsp;&nbsp;
+  <a href="https://www.credly.com/badges/c2b04326-78b8-46e5-b8cd-ace7a0502533/public_url">
+    <img src="https://img.shields.io/badge/AWS%20Cloud%20Practitioner-FFFDF9?style=for-the-badge&logo=amazonaws&logoColor=5C4033"/>
+  </a>
 
-<a href="https://www.credly.com/badges/c2b04326-78b8-46e5-b8cd-ace7a0502533/public_url">
-  AWS Cloud Practitioner
-</a> &nbsp;&nbsp;&nbsp;
-
-<a href="https://drive.google.com/file/d/192rHt83cNyYXZqaUFck_f5wLxUvJZIac/view?usp=sharing">
-  Oracle Java Certification
-</a>
-
-</p>
-
-</p>
----
-# 🎃 Hacktoberfest
-
-<p align="center">
-  <a href="https://drive.google.com/file/d/1zK1omY4RjUhTmNS1gbtbd6DV5AIqcWS3/view?usp=sharing">
-    <img src="https://img.shields.io/badge/View%20Hacktoberfest%20Badges-FFFDF9?style=for-the-badge&logo=hacktoberfest&logoColor=5C4033"/>
+  <a href="https://drive.google.com/file/d/192rHt83cNyYXZqaUFck_f5wLxUvJZIac/view?usp=sharing">
+    <img src="https://img.shields.io/badge/Oracle%20Java-FFFDF9?style=for-the-badge&logo=oracle&logoColor=8B5E3C"/>
   </a>
 </p>
 
+---
+
+## 🎃 Hacktoberfest
+
+<p align="center">
+  <a href="https://drive.google.com/file/d/1zK1omY4RjUhTmNS1gbtbd6DV5AIqcWS3/view?usp=sharing">
+    <img src="https://img.shields.io/badge/View%20Hacktoberfest%20Badges-065f46?style=for-the-badge&logo=hacktoberfest&logoColor=white"/>
+  </a>
+</p>
 # ⚡ Skills
 
 <p align="center">
