@@ -46,7 +46,10 @@
     <img src="https://img.shields.io/badge/View%20Hacktoberfest%20Badges-065f46?style=for-the-badge&logo=hacktoberfest&logoColor=white"/>
   </a>
 </p>
-# ⚡ Skills
+
+---
+
+## ⚡ Skills
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=aws,solidity,react,nextjs,nodejs,python,java,c,mysql,git,latex,figma"/>
